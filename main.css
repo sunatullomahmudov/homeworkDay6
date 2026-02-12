@@ -1,4 +1,124 @@
 *
 {
     margin: 0;
+    font-family: sans-serif;
+}
+header
+{
+    width: 95%;
+    height: 930px;
+    background-color: #101C26;
+    padding-left: 5%;
+    font-size: 20px;
+}
+.bottom
+{
+    color: white;
+    border-bottom: 2px solid white;
+    width: 50px;
+}
+.div
+{
+    display: flex;
+    gap: 350px;
+    align-items: center;
+    padding-top: 30px;
+}
+.div1
+{
+    display: flex;
+    gap: 30px; 
+    font-size: 20px;
+    color: rgb(151, 151, 151);
+}
+.borderp
+{
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+    width: 100px;
+    padding: 10px;
+    height: 25px;
+    text-align: center;
+    border-radius: 50px;
+}
+.backgroundp
+{
+    font-size: 20px;
+    width: 120px;
+    padding: 10px;
+    height: 25px;
+    background-color: #F0E714;
+    text-align: center;
+    border-radius: 50px;
+}
+.div1_1
+{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.div1_1_1
+{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.div1_2
+{
+    display: flex;
+    gap: 250px;
+    align-items: center;
+}
+.bigp
+{
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+    width: 470px;
+}
+.hblock-1
+{
+    color: white;
+    display: flex;
+    gap: 220px;
+    margin-top: 80px;
+    align-items: center;
+}
+.pwidth
+{
+    width: 400px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.backgroundp1
+{
+    font-size: 20px;
+    width: 160px;
+    padding: 10px;
+    height: 30px;
+    background-color: #F0E714;
+    text-align: center;
+    border-radius: 50px;
+    color: black;
+}
+.num
+{
+    font-size: 45px;
+    font-weight: 700;
+    color: #F0E714;
+}
+.hblock-2
+{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin-top: 70px;
+}
+.images
+{
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    gap: 90px;
 }
