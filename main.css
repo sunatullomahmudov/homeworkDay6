@@ -122,3 +122,46 @@ header
     margin-top: 70px;
     gap: 90px;
 }
+.backgroundp2
+{
+    width: 120px;
+    padding: 7px;
+    height: 25px;
+    background-color: #F0E71433;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.bigp1
+{
+    font-size: 40px;
+    font-weight: 600;
+    width: 510px;
+    margin-top: 20px;
+}
+.pwidth1
+{
+    width: 450px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: grey;
+}
+.backgroundp1_1
+{
+    width: 150px;
+    padding: 10px;
+    height: 20px;
+    background-color: #24272E;
+    color: yellow;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+.mainsection
+{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 100px;
+    gap: 30px;
+    align-items: center;
+}
