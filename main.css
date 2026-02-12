@@ -139,6 +139,14 @@ header
     width: 510px;
     margin-top: 20px;
 }
+.bigp2
+{
+    font-size: 40px;
+    font-weight: 600;
+    width: 450px;
+    margin-top: 20px;
+    text-align: center;
+}
 .pwidth1
 {
     width: 450px;
@@ -205,4 +213,22 @@ header
     margin-left: 5%;
     margin-top: 100px;
 }
-
+.pcolor
+{
+    color: grey;
+    width: 490px;
+    text-align: center;
+}
+.centerp
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.img1
+{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
